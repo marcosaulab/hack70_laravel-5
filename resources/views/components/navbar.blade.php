@@ -13,6 +13,9 @@
                 <li class="nav-item">
                     <a class="nav-link text-light"  href="{{ route('comic.create') }}">Crea Comic</a>
                 </li>
+                <li class="nav-item">
+                    <a class="nav-link text-light"  href="{{ route('editor.create') }}">Crea Editor</a>
+                </li>
                 <li class="nav-item dropdown">
                     <a class="nav-link dropdown-toggle text-light" href="#" role="button" data-bs-toggle="dropdown"
                         aria-expanded="false">
